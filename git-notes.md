@@ -10,3 +10,5 @@ uusi repository luodaan komennolla:
 ´´´
 git init
 ´´´
+
+tämä on testing-branchin lisäys
